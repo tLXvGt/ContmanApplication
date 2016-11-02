@@ -1,0 +1,18 @@
+C:\Users\Rodryg\Documents\Visual Studio 2013\Projects\ContmanApplication\ContmanApplication\bin\Debug\ContmanApplication.exe.config
+C:\Users\Rodryg\Documents\Visual Studio 2013\Projects\ContmanApplication\ContmanApplication\bin\Debug\ContmanApplication.exe
+C:\Users\Rodryg\Documents\Visual Studio 2013\Projects\ContmanApplication\ContmanApplication\bin\Debug\ContmanApplication.pdb
+C:\Users\Rodryg\Documents\Visual Studio 2013\Projects\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.csprojResolveAssemblyReference.cache
+C:\Users\Rodryg\Documents\Visual Studio 2013\Projects\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.Form1.resources
+C:\Users\Rodryg\Documents\Visual Studio 2013\Projects\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.Properties.Resources.resources
+C:\Users\Rodryg\Documents\Visual Studio 2013\Projects\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.csproj.GenerateResource.Cache
+C:\Users\Rodryg\Documents\Visual Studio 2013\Projects\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.exe
+C:\Users\Rodryg\Documents\Visual Studio 2013\Projects\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.pdb
+C:\Users\Rodryg\Documents\GitHub\ContmanApplication\ContmanApplication\bin\Debug\ContmanApplication.exe.config
+C:\Users\Rodryg\Documents\GitHub\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.exe
+C:\Users\Rodryg\Documents\GitHub\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.pdb
+C:\Users\Rodryg\Documents\GitHub\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.csprojResolveAssemblyReference.cache
+C:\Users\Rodryg\Documents\GitHub\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.Form1.resources
+C:\Users\Rodryg\Documents\GitHub\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.Properties.Resources.resources
+C:\Users\Rodryg\Documents\GitHub\ContmanApplication\ContmanApplication\obj\Debug\ContmanApplication.csproj.GenerateResource.Cache
+C:\Users\Rodryg\Documents\GitHub\ContmanApplication\ContmanApplication\bin\Debug\ContmanApplication.exe
+C:\Users\Rodryg\Documents\GitHub\ContmanApplication\ContmanApplication\bin\Debug\ContmanApplication.pdb
